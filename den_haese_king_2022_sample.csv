@@ -1,0 +1,8 @@
+metric,value,unit,source_location
+analytic_n,1155,students,Participants
+female_share,74.6,percent,Participants
+vaginal_intercourse_group,847,students,Participants (NOT total sample)
+no_to_all_four,194,students,Participants
+original_t,3.61,t statistic,"Results, difference in social desirability"
+original_effect_g,0.78,Hedges g,Results
+original_religiosity_r,0.25,Pearson r,Results

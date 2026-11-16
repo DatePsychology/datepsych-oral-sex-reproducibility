@@ -1,0 +1,6 @@
+category,effects,samples,reported_subgroup_n,pooled_relative_reporting_ratio,log_ci_lower,log_ci_upper,source_location
+All sensitive behaviors,460,48,125305,1.19,0.1,0.25,"Table 5, overall"
+Substance use,300,38,121367,1.17,0.07,0.23,"Table 5, type of behavior"
+Sexuality,51,20,17966,1.29,0.11,0.41,"Table 5, type of behavior"
+Delinquency,53,12,14410,1.14,-0.02,0.3,"Table 5, type of behavior"
+Victimization,56,17,15964,1.07,-0.04,0.18,"Table 5, type of behavior"

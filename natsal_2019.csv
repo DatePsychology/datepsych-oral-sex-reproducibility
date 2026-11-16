@@ -1,0 +1,11 @@
+measure,group,value,unit,source_location
+oral_only_excluded,Men,33.1,percent,Results: Gendered difference in what counts as a partner
+oral_only_excluded,Women,23.4,percent,Results: Gendered difference in what counts as a partner
+past_year_gap,Before adding omitted oral-only partners,0.23,partners,"Table 1, last year"
+past_year_gap,After adding omitted oral-only partners,0.28,partners,"Table 1, last year"
+lifetime_mean,Men,14.14,partners,"Table 1, lifetime"
+lifetime_mean,Women,7.12,partners,"Table 1, lifetime"
+lifetime_gap,Unadjusted,7.02,partners,"Table 1, lifetime"
+lifetime_gap,After 99th percentile capping,5.47,partners,"Table 1, lifetime"
+lifetime_gap,After additional counting-strategy adjustment,3.24,partners,"Table 1, lifetime"
+lifetime_gap,After additional counting and sexual-attitudes adjustment,2.63,partners,"Table 1, lifetime"

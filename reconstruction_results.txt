@@ -1,0 +1,23 @@
+Does Oral Sex Count? — Published-summary reconstructions
+IMPORTANT: calculations from rounded published statistics, not participant-level replication.
+
+Category totals: 140 + 57 + 443 = 640, versus stated n=628; excess=12.
+If 57 total oral-greater includes 12 women, implied men=45 of 447 (10.07%), versus published 12.7%.
+
+Hypothetical two-sided Fisher exact tests (women fixed at 12/181; men vary):
+  If oral-greater total were 45: men=33/447 (7.38%); women=12/181 (6.63%); Fisher p=0.864797.
+  If oral-greater total were 57: men=45/447 (10.07%); women=12/181 (6.63%); Fisher p=0.219636.
+  If reported 12.7% were correct: men=57/447 (12.75%); women=12/181 (6.63%); Fisher p=0.024800.
+
+For n=12 and bounded range 1–3: maximum possible sample SD=1.044466; reported SD=1.45 (impossible under the stated constraints).
+Implied pooled mean using rounded women 2.1 (n=12), men 2.2 (n=45) = 2.178947; published pooled mean=2.12.
+Original sample estimated women=1155*74.6% = 861.63; 65/861.63 = 7.54% of all women, NOT of sexually experienced women.
+
+Overall r=-0.02, assumed n=628: approximate Fisher-z 95% CI [-0.0981, 0.0583].
+Women r=-0.11, assumed n=181: approximate Fisher-z 95% CI [-0.2518, 0.0364].
+
+YouGov table p.1: overall penis-oral yes=45%, no=41%; these conflict with YouGov article prose, and chart uses tables.
+Natsal: men=33.1%, women=23.4% excluding oral-only partners.
+Gnambs/Kaspar Table 5, sexuality: relative affirmative reporting=1.29; approximate CI=exp([0.11,0.41])=[1.1163,1.5068].
+
+No original respondent data or missing eligibility counts are recovered here.

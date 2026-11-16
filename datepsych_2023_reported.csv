@@ -1,0 +1,30 @@
+key,value,unit,location,notes
+total_n,628,respondents,Can I Replicate Den Haese and King?,Author-reported
+women_n,181,respondents,Can I Replicate Den Haese and King?,Author-reported
+men_n,447,respondents,Derived: 628 minus 181,"Calculated remainder, not separately quoted"
+women_heterosexual,109,respondents,Can I Replicate Den Haese and King?,Author-reported
+men_heterosexual,399,respondents,Can I Replicate Den Haese and King?,Author-reported
+women_had_sex_yes,153,respondents,Can I Replicate Den Haese and King?,Author-reported
+men_had_sex_yes,334,respondents,Can I Replicate Den Haese and King?,Author-reported
+women_young_among_had_sex_yes,61,respondents,Can I Replicate Den Haese and King?,Not all eligible young women
+men_young_among_had_sex_yes,134,respondents,Can I Replicate Den Haese and King?,Not all eligible young men
+sex_partners_more,140,respondents,Partner-count comparison,Includes 47 women; category counts conflict
+sex_partners_more_women,47,respondents,Partner-count comparison,
+oral_partners_more,57,respondents,Partner-count comparison,Includes 12 women; category counts conflict
+oral_partners_more_women,12,respondents,Partner-count comparison,
+partner_counts_equal,443,respondents,Partner-count comparison,Author calls 70.5% of sample
+reported_male_oral_gt_pct,12.7,percent,Partner-count comparison,Inconsistent with implied 45 men /447
+reported_female_oral_gt_pct,6.6,percent,Partner-count comparison,Approximately 12/181
+oral_gt_difference_all_mean,2.12,partners,Partner-count comparison,Reported mean for oral>sex cases
+oral_gt_difference_all_sd,1.45,partners,Partner-count comparison,
+oral_gt_difference_all_min,1,partners,Partner-count comparison,
+oral_gt_difference_all_max,8,partners,Partner-count comparison,
+oral_gt_difference_women_mean,2.1,partners,Partner-count comparison,
+oral_gt_difference_women_sd,1.45,partners,Partner-count comparison,Impossible for n=12 and range 1–3
+oral_gt_difference_women_min,1,partners,Partner-count comparison,
+oral_gt_difference_women_max,3,partners,Partner-count comparison,
+oral_gt_difference_men_mean,2.2,partners,Partner-count comparison,n=45 is a hypothetical implication of 57 total minus 12 women
+oral_gt_difference_men_sd,1.5,partners,Partner-count comparison,
+sex_partner_sd_r_all,-0.02,Pearson r,Marlowe-Crowne Social Desirability Scores,
+oral_partner_sd_r_all,-0.01,Pearson r,Marlowe-Crowne Social Desirability Scores,
+sex_partner_sd_r_women,-0.11,Pearson r,Marlowe-Crowne Social Desirability Scores,
